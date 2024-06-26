@@ -1,4 +1,4 @@
-
+[![K-avya30's GitHub | Stats](https://stats.quira.sh/K-avya30/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=K-avya30)
 
 <!--
 **K-avya30/K-avya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
