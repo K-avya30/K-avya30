@@ -109,7 +109,7 @@
 
 **Learning Outcome:** Deep understanding of ransomware TTPs, EDR detection capabilities, incident response priorities
 
-**GitHub:** [Link to detailed writeup in repo]
+**GitHub:** https://github.com/K-avya30/WannaCry-MITRE-ATTACK-Analysis
 
 ---
 
