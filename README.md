@@ -1,4 +1,4 @@
-# 👋 Kavya Patel | SOC Analyst | Cybersecurity Professional
+# 👋 Kavya Patel | SOC Analyst | Security Managed Services Associate
 
 <div align="center">
 
